@@ -1,2 +1,2 @@
 # games
-proyectgames2s page
+proyectgames2 page
